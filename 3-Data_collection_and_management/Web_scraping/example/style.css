@@ -1,0 +1,13 @@
+h1 {
+ color: red;
+ font-style: italic;
+}
+
+.greenitalic {
+	color: green;
+	font-style: italic;
+}
+
+#myForm{
+	background-color: grey;
+}
