@@ -1,5 +1,2 @@
 *.ini
-.ipynb_checkpoints
-*.csv
-# */
-# !*Project*/
+*.ipynb_checkpoints
