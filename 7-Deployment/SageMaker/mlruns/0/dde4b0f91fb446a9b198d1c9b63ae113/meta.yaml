@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/silco/Google%20Drive/Documents/Data%20Science/Jedha/Thibaud%20Chevrier/FullStack/7-Deployment/SageMaker/mlruns/0/dde4b0f91fb446a9b198d1c9b63ae113/artifacts
+end_time: 1618058197081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dde4b0f91fb446a9b198d1c9b63ae113
+run_uuid: dde4b0f91fb446a9b198d1c9b63ae113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1618058196475
+status: 3
+tags: []
+user_id: Thibaud
